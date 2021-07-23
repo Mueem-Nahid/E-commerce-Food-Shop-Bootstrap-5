@@ -47,7 +47,7 @@
 }
 
 .main {
-    background-image: url("../../img/background-1.jpg") no-repeat;
+    background-image: url("img/background-1.jpg") no-repeat;
     background-size: cover;
     height: 100vh;
     background-position: 50% 50%;
