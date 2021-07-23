@@ -99,6 +99,7 @@ h1 {
 
 .apple h1 {
     font-family: 'Lobster', cursive;
+    letter-spacing: .2rem;
 }
 
 .news {
@@ -132,6 +133,7 @@ h1 {
 
 .news p {
     margin: 0;
+    letter-spacing: .1rem;
 }
 
 .fab {
